@@ -1,4 +1,4 @@
-# Project Link: https://briber162.github.io/Timer/.
+Project Link: https://briber162.github.io/Timer/.
 
 # Getting Started with Create React App
 
